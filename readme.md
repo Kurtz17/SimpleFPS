@@ -1,5 +1,5 @@
 # 🎮 Tugas 1 IMK Praktikum — Simple FPS
-> First-Person Shooter sederhana dibuat menggunakan Unity sebagai tugas praktikum Interaksi Manusia dan Komputer.
+First-Person Shooter sederhana dibuat menggunakan Unity sebagai tugas praktikum Interaksi Manusia dan Komputer.
 
 ## 👤 Identitas
 | | |
