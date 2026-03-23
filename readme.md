@@ -12,18 +12,18 @@ A simple First Person Shooter game built with Unity.
 
 ---
 
-## 📖 Description
+## Description
 
 This project is a simple **FPS (First Person Shooter)** game built using Unity. The player can shoot object with pistol.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-- 🔫 **Shooting System** — Raycast-based bullet shooting mechanic
-- 💥 **Muzzle Flash** — Visual flash effect when firing
-- 🔊 **Sound Effects** — Gunshot audio 
-- 🍾 **Object Destruction** — Objects destroyed when hit by a bullet
+- 🔫 **Shooting System** 
+- 💥 **Muzzle Flash** 
+- 🔊 **Sound Effects** 
+- 🍾 **Object Destruction** —
   
 ---
 
@@ -39,7 +39,7 @@ This project is a simple **FPS (First Person Shooter)** game built using Unity. 
 
 ---
 
-## 📥 Download & Installation
+## Download & Installation
  
 ### Clone Repository
  
@@ -57,7 +57,7 @@ Navigate to the `Game Build` folder after cloning.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
