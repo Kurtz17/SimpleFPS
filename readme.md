@@ -23,11 +23,11 @@ This project is a simple **FPS (First Person Shooter)** game built using Unity. 
 - 🔫 **Shooting System** 
 - 💥 **Muzzle Flash** 
 - 🔊 **Sound Effects** 
-- 🍾 **Object Destruction** —
+- 🍾 **Object Destruction** 
   
 ---
 
-## 🕹️ How to Play
+## How to Play
 
 ### Controls
 
