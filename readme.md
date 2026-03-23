@@ -68,4 +68,4 @@ Navigate to the `Game Build` folder after cloning.
 
 ## 🎬 Demo Video
 
-🎥 [Watch Demo on Google Drive]([https://drive.google.com/file/d/1cIJnr1Ele3iaep0u3D5ZxplOw4KhkZaC/view?usp=sharing](https://drive.google.com/file/d/1u0KopASa8LoiGkECyKf0Ee8AO6cHpP-_/view?usp=drivesdk))
+🎥[Watch Demo](https://drive.google.com/file/d/1u0KopASa8LoiGkECyKf0Ee8AO6cHpP-_/view?usp=drivesdk)
