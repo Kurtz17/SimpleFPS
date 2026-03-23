@@ -7,8 +7,8 @@ A simple First Person Shooter game built with Unity.
 
 | Field | Detail |
 |-------|--------|
-| **Name** | Robby Azwan Saputra |
-| **NPM** | 140810230008 |
+| **Name** | Muhammad Zahran Muntazar |
+| **NPM** | 140810230014 |
 
 ---
 
